@@ -6,6 +6,7 @@ find minimum of nonlinear multivatiable function for n =7, with
 
 minima_n7_bound:
 find minimum of nonlinear multivatiable function for n =7, with
+
 	nonlinear inequality contraint + (1-3) variables  on the boundary -pi or pi
 	--> larger than minima_n7_opt 	
 
